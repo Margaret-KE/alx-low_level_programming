@@ -1,6 +1,6 @@
-#include<stio.h>
+#include <stio.h>
 /*
- * main - Entry point
+ * main - Prints "Programming is like building a multilingual puzzle, fowolled by a new line.
  *
  * Return: Always 0 (Success)
  */
